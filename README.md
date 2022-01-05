@@ -60,8 +60,9 @@ Write your report in Markdown cells in your notebook. You may interleave code ce
 > Recommendation: Write functions that compare BPE to each tokenizer for different values of `k`.
 
 ## Grading 
-> 8 ⭐️ - the number of stars required for an A.
-I will keep track of stars accumulated from assignments instead of some arbitrary percentages. I may offer more stars than are necessary for an A. Anything labelled with a ⚠️ is a hard requirement that I will not make up for with extra credit/bonuses.
+### 8 ⭐️ - the number of stars required for an A.
+
+> I will keep track of stars accumulated from assignments instead of some arbitrary percentages. I may offer more stars than are necessary for an A. Anything labelled with a ⚠️ is a hard requirement that I will not make up for with extra credit/bonuses.
 
 - ⚠️ Your code should be well commented and any references you use should be listed in comments. If you forget to keep track of the references, try your best to list them at the bottom.
 - ⚠️ Your assignment is submitted within a week of the deadline
