@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 1 - Tokenization
 Implement the Byte-Pair Encoding algorithm and apply it to a large dataset.
 
 In this assignment you will implement the BPE algorithm, described in [Chapter 2 of J&M](https://web.stanford.edu/~jurafsky/slp3/2.pdf). We will then compare it to some other tokenization methods. You will write your code on Google Colab. You should also include a write-up in your colab notebook. The questions you should answer are [at the bottom](#Comparison-and-Writeup).
