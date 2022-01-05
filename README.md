@@ -42,6 +42,8 @@ def segment(text: str, tokens: set[str]):
   pass
 ```
 
+I should be able to copy-paste these functions into my own code, so they should not depend on any global variables. It is ok if they depend on external imports. If you are unsure how to do this, reach out to me.
+
 You may find it helpful to use the `Counter` datastructure from the built-in [`collections`](https://docs.python.org/3/library/collections.html) library.
 
 ## Comparison and Writeup
