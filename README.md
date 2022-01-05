@@ -39,8 +39,11 @@ def learn(text: list[str], k : int):
   """"
   pass
   
-def segment(text: str, tokens: set[str]):
-  """Take a piece of text and return a list of tokens in order."""
+def segment(text: str, tokens: list[str]):
+  """Take a piece of text and return a list of tokens in order.
+  eg: segment("lower low", ["l", "o", "w", "e", "r", "_", "lo", "low"])
+    returns: ["low", "e", "r", ""_", "low", "_"]
+  """
   pass
 ```
 
@@ -76,7 +79,7 @@ Write your report in Markdown cells in your notebook. You may interleave code ce
 
 ### Bonuses
 - ⭐️ Use Heap's Law/Heardan's Law to choose a good value for `k`. Show your work.
-- ⭐️ Implement an improvemed version of BPE according to your observations and explain why it is an improvement.
+- ⭐️ Implement an improved version of BPE according to your observations and explain why it is an improvement.
 
 
 
