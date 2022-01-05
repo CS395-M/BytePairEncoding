@@ -60,17 +60,17 @@ Write your report in Markdown cells in your notebook. You may interleave code ce
 ## Grading (8⭐️ - the number of stars I expect for an A)
 I will keep track of stars accumulated from assignments instead of some arbitrary percentages. I may offer more stars than are necessary for an A. Anything labelled with a ⚠️ is a hard requirement that I will not make up for with extra credit/bonuses.
 
-⚠️ Your code should be well commented and any references you use should be listed in comments. If you forget to keep track of the references, try your best to list them at the bottom.
-⚠️ Your assignment is submitted within a week of the deadline
+- ⚠️ Your code should be well commented and any references you use should be listed in comments. If you forget to keep track of the references, try your best to list them at the bottom.
+- ⚠️ Your assignment is submitted within a week of the deadline
 
-⭐️⭐️ A working Token Learner for BPE
-⭐️⭐️ A working Token Segmenter for BPE
-⭐️⭐️⭐️ A detailed comparison of BPE to each of the `nltk` tokenizers. This will involve comparing how many wordtypes and wordtokens are found by each approach, how many types and tokens overlap with BPE, and repeating this process for different values of `k`.
-⭐️ Your assignment was completed on time.
+- ⭐️⭐️ A working Token Learner for BPE
+- ⭐️⭐️ A working Token Segmenter for BPE
+- ⭐️⭐️⭐️ A detailed comparison of BPE to each of the `nltk` tokenizers. This will involve comparing how many wordtypes and wordtokens are found by each approach, how many types and tokens overlap with BPE, and repeating this process for different values of `k`.
+- ⭐️ Your assignment was completed on time.
 
 ### Bonuses
-⭐️ Use Heap's Law/Heardan's Law to choose a good value for `k`. Show your work.
-⭐️ Implement an improvemed version of BPE according to your observations and explain why it is an improvement.
+- ⭐️ Use Heap's Law/Heardan's Law to choose a good value for `k`. Show your work.
+- ⭐️ Implement an improvemed version of BPE according to your observations and explain why it is an improvement.
 
 
 
