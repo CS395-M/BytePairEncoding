@@ -27,6 +27,8 @@ We will use the IMDB dataset again next week to see if we can learn to predict w
 
 ## Byte Pair Encoding ![Original Work](https://img.shields.io/badge/OriginalWork-%23ff0077.svg?)
 
+> Remember the ![Original Work](https://img.shields.io/badge/OriginalWork-%23ff0077.svg?) means this section must be done without copying code from external sources. You may still refer to API's and pseudocode. If you are unsure as to whether you are overstepping the boundaries, ask me on slack!
+
 Implement Byte Pair Encoding. Your implementation should have the following functions:
 
 ```python
