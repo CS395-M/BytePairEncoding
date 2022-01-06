@@ -32,14 +32,16 @@ We will use the IMDB dataset again next week to see if we can learn to predict w
 Implement Byte Pair Encoding. Your implementation should have the following functions:
 
 ```python
-def learn(text: list[str], k : int):
+from typing import List
+
+def learn(text: List[str], k : int):
   """Take a list of sentence and apply the Token Learner algorithm.
   Your function should return a list of k tokens in the order they were
   learned from the text
   """"
   pass
   
-def segment(text: str, tokens: list[str]):
+def segment(text: str, tokens: List[str]):
   """Take a piece of text and return a list of tokens in order.
   eg: segment("lower low", ["l", "o", "w", "e", "r", "_", "lo", "low"])
     returns: ["low", "e", "r", ""_", "low", "_"]
